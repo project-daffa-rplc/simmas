@@ -1,0 +1,7 @@
+- run composer install di folder backend
+- run npm install di folder frontend
+- run cp .env.example  dan setting env
+- run php generate:key
+- run php artisan migrate
+- run php artisan seeder untuk isi data (kalo maunual juga bisa)
+- run php artisan serve dan npm run dev 
