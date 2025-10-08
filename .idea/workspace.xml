@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b27e2d2-8712-4c48-b820-4bce8a57d3d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/app/Constants/DudiStatusConstant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/resources/views/admin/dudi/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/resources/views/livewire/dudi/action/action.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/resources/views/livewire/dudi/action/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/resources/views/livewire/dudi/modal/modal-add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/resources/views/livewire/dudi/modal/modal-edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Constants/RoleConstants.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Constants/RoleConstants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Constants/StatusMagangConstant.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Constants/StatusMagangConstant.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/Auth/RegisteredUserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/Auth/RegisteredUserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Controllers/DudiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Controllers/DudiController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Middleware/ChekRole.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Middleware/ChekRole.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/Role.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/Role.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/dudi.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/dudi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/guru.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/guru.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/magang.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/magang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Models/siswa.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Models/siswa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backend/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2025_09_24_152633_create_dudis_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2025_09_24_152633_create_dudis_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/migrations/2025_09_24_152640_create_magangs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/migrations/2025_09_24_152640_create_magangs_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/seeders/DudiSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/seeders/DudiSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/database/seeders/MagangSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/database/seeders/MagangSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/resources/views/components/dropdown.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/resources/views/components/dropdown.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/resources/views/components/modal.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/resources/views/layouts/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/resources/views/layouts/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AIDILYOWIE"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AIDILYOWIE/project-simmas.git",
+    "accountId": "64cc2c1e-1a01-4d09-b65b-13f9efc7f096"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../laragon/bin/php/php-7.4.0/php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="33VNwx70rY0T6QmBLGPhaWkN3tF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "aidil/development",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PS-251.27812.52" />
+        <option value="bundled-php-predefined-a98d8de5180a-e5747d4f5a45-com.jetbrains.php.sharedIndexes-PS-251.27812.52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b27e2d2-8712-4c48-b820-4bce8a57d3d6" name="Changes" comment="" />
+      <created>1759398522693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759398522693</updated>
+      <workItem from="1759398525412" duration="83000" />
+    </task>
+    <servers />
+  </component>
+</project>
